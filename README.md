@@ -5,11 +5,11 @@ Welcome to "Recipe for Rating" an exciting machine learning challenge. Your task
 
 In this challenge you goal is to build models that can guess the ratings for each recipe using given information.
 
-###Dataset Overview
+### Dataset Overview
 
 This dataset is your gateway to the Recipe Ratings Prediction Challenge! Each entry captures a unique culinary story with details such as recipe names, user reviews, and various key features. Your task is to explore this rich data and develop predictive models that can forecast the ratings for every recipe. Unleash your creativity and analytical skills to unlock the secrets hidden in the world of flavors!
 
-###Data Files
+### Data Files
 The dataset is composed of the following files:
 
 train.csv: The training set, which includes the target variable 'rating' and accompanying feature attributes.
@@ -18,7 +18,7 @@ test.csv: The test set, containing similar feature attributes but without the ta
 
 sample_submission.csv: A sample submission file provided in the correct format for competition submissions.
 
-###Columns Description
+### Columns Description
 
 RecipeNumber: Placement of the recipe on the top 100 recipes list
 RecipeCode: Unique ID of the recipe used by the site
