@@ -1,6 +1,6 @@
 # Ml-Projects
 Ml Projects
-1. Recipe for Rating: Predict Food Ratings using ML
+# 1. Recipe for Rating: Predict Food Ratings using ML
 Welcome to "Recipe for Rating" an exciting machine learning challenge. Your task is to create models that can accurately predict food rating
 
 In this challenge you goal is to build models that can guess the ratings for each recipe using given information.
