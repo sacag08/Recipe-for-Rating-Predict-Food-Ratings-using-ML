@@ -46,4 +46,4 @@ sample_submission.csv: A sample submission file provided in the correct format f
 
 **BestScore**: Score of the comment, likely used by the site to help determine the order comments appear in
 
-Recipe_Review: Text content of the comment
+**Recipe_Review**: Text content of the comment
